@@ -29,7 +29,7 @@
                     </a>
                     <div class="content is-size-7">
                         {{$reply->content}}
-                        <a href="#">#css</a> <a href="#">#responsive</a>
+                        <a href="#"></a> <a href="#"></a>
                         <br>
                         <time datetime="2016-1-1">{{$reply->created_at->diffForHumans()}}</time>
                     </div>
